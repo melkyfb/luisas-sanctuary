@@ -1,0 +1,6 @@
+{
+  "name": "Luisa's Magical Pet Sanctuary",
+  "description": "Cozy 3D animal rescue, exploration, and decorating sandbox. Tame magical pets, care for them, build fences, and decorate your sanctuary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
